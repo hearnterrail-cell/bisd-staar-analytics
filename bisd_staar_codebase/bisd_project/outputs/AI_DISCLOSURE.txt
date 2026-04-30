@@ -1,0 +1,18 @@
+AI DISCLOSURE STATEMENT
+COSC5302 – Python Programming & Data Analytics
+Student: Terrail Hearn
+Spring 2026
+
+In accordance with course policy, I disclose that AI-assisted tools
+(Claude by Anthropic) were used in the development of this project.
+
+AI assistance was used for:
+- Generating the initial structure of Python scripts
+- Debugging and troubleshooting code errors
+- Drafting sections of the final report and reflection essay
+- Generating data visualizations
+
+All code has been reviewed and understood by the student. The analytical
+findings, topic selection (Beaumont ISD / TEA data), and project
+direction reflect the student's own decisions. The student takes full
+academic responsibility for all submitted work.
